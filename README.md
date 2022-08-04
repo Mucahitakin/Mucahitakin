@@ -13,7 +13,7 @@
 <li>
 <p align="left">
 <a href="https://twitter.com/Akin__mucahit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="30" /></a>
-@Akin_mucahit
+@Akin__mucahit
 </li>
 <li>
 </p>
