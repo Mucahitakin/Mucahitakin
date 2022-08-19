@@ -24,7 +24,7 @@
   <li>
  </p>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mücahit-akın-573205219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/mücahit-akın/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a>
  Mücahit Akin
  </li>
  <li>
